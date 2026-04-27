@@ -1,16 +1,91 @@
-# React + Vite
+# 📝 To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and modern To-Do List application built using React and Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* Add new tasks
+* Mark tasks as completed
+* Delete tasks
+* Responsive UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* Tailwind CSS
+* JavaScript
+
+---
+
+## 📦 Installation & Setup
+
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+### 2. Navigate to project folder
+
+```bash
+cd your-repo-name
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+### 5. Open in browser
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🌐 Live Demo
+
+👉 https://to-do-list-react-sanjai2614.vercel.app/
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+ ├── components/
+ ├── App.jsx
+ ├── main.jsx
+```
+
+---
+
+## ✨ Future Improvements
+
+* Add LocalStorage support
+* Add filters (All / Completed / Pending)
+* Dark mode
+* Drag & Drop
+
+---
+
+## 🙋‍♂️ Author
+
+Sanjai
+MERN Stack Developer
+
+---
